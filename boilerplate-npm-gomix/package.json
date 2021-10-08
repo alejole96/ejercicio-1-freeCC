@@ -1,6 +1,6 @@
 {
-	"author": "Alejandro Gómez",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Alejandro Gómez",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
